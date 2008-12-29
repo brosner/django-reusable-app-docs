@@ -23,6 +23,7 @@ documentation itself. This documentation should cover:
  * distribution
  * generic views
  * urls
+ * tests
 
 I really encourage anyone to fork this project and start contributing patches
 back to me. I can certainly envision there will need to a lot of dicussion
@@ -37,3 +38,4 @@ automatically updated from the master branch every ten minutes.
 [1]: http://groups.google.com/group/django-hotclub
 [2]: irc://irc.freenode.net/django-hotclub
 [3]: http://appdocs.oebfare.com
+
