@@ -1,0 +1,35 @@
+
+This project is meant to hold documentation on how to build and maintain
+Django reusable apps. This document is going to serve (for now) as the place
+of my current ideas.
+
+One item on the Pinax TODO/wish list is to have good documentation about all
+aspects of a Django resuable app. This includes, but not limited to:
+
+ * how to write one
+ * how to release one
+ * best practices
+
+The documentation should be clear and structured logically like the Django
+documentation itself. This documentation should cover:
+
+ * admin
+ * internationalization
+ * models
+ * feeds (if applicable)
+ * templates
+ * templatetags
+ * documentation
+ * distribution
+ * generic views
+ * urls
+
+I really encourage anyone to fork this project and start contributing patches
+back to me. I can certainly envision there will need to a lot of dicussion
+about how things should be. Lets get it started again.
+
+James Tauber started a mailing list and freenode IRC channel for this exact
+stuff. django-hotclub [1] and #django-hotclub [2] respectively.
+
+[1]: http://groups.google.com/group/django-hotclub
+[2]: irc://irc.freenode.net/django-hotclub
